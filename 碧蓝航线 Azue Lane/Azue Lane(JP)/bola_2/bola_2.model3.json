@@ -103,7 +103,9 @@
     }
   },
   "Controllers": {
-    "ParamHit": {},
+    "ParamHit": {
+      "Enabled": true
+    },
     "ParamLoop": {},
     "KeyTrigger": {},
     "EyeBlink": {
@@ -148,7 +150,9 @@
     "ArtmeshCulling": {
       "DefaultMode": 0
     },
-    "IntimacySystem": {}
+    "IntimacySystem": {
+      "Enabled": true
+    }
   },
   "HitAreas": [
     {
